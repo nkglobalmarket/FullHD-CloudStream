@@ -2,12 +2,12 @@
   "name": "Kemal HD Deposu",
   "description": "Fullhdfilmizlesene kaynak deposu",
   "manifestVersion": 1,
-  "pluginLists": [
+  "plugins": [
     {
       "name": "FullHD Film İzle",
       "description": "Fullhdfilmizlesene kaynağı",
-      "path": "FullHD.csx",
-      "version": 1
+      "version": 1,
+      "url": "https://raw.githubusercontent.com/nkglobalmarket/FullHD-CloudStream/main/FullHD.csx"
     }
   ]
 }
