@@ -3,6 +3,11 @@
     "description": "Türkçe içerikli eklenti havuzu",
     "manifestVersion": 1,
     "pluginLists": [
-      "https://raw.githubusercontent.com/keyiflerolsun/Kekik-cloudstream/builds/plugins.json"
+     {
+      "name": "FullHD Film İzle",
+      "description": "Fullhdfilmizlesene kaynağı",
+      "version": 1,
+      "url": "https://raw.githubusercontent.com/nkglobalmarket/FullHD-CloudStream/main/FullHD.csx"
+    }
     ]
 }
