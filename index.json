@@ -1,13 +1,8 @@
 {
-  "name": "Kemal HD Deposu",
-  "description": "Fullhdfilmizlesene kaynak deposu",
-  "manifestVersion": 1,
-  "plugins": [
-    {
-      "name": "FullHD Film İzle",
-      "description": "Fullhdfilmizlesene kaynağı",
-      "version": 1,
-      "url": "https://raw.githubusercontent.com/nkglobalmarket/FullHD-CloudStream/main/FullHD.csx"
-    }
-  ]
+    "name": "Turkish Providers Repository | @KekikAkademi",
+    "description": "Türkçe içerikli eklenti havuzu",
+    "manifestVersion": 1,
+    "pluginLists": [
+      "https://raw.githubusercontent.com/keyiflerolsun/Kekik-cloudstream/builds/plugins.json"
+    ]
 }
