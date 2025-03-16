@@ -1,0 +1,13 @@
+{
+  name Kemal HD Deposu,
+  description Fullhdfilmizlesene kaynak deposu,
+  manifestVersion 1,
+  pluginLists [
+    {
+      name FullHD Film İzle,
+      description Fullhdfilmizlesene kaynağı,
+      path FullHD.csx,
+      version 1
+    }
+  ]
+}
